@@ -8,9 +8,9 @@ I'm a 16-year-old computer programmer. Despite the fact that I am still in high 
 If you want to have a talk with me or ask me something, the best way is through Discord (Cedric# 8394). I don't have a private server for people to join. I might create one later.
 # Projects
 
-- `Hoyolab Daily Reward Claimer` -  A simple script to help people easily claim their hoyolab daily reward
-- `GanyuBot` - A bot created to help people with genshin impact things such as wish history and in-game information.
-- `Discord Custom RPC` - A simple script that use .ini files to help you with 
+- [`Hoyolab Daily Reward Claimer`](https://github.com/Cedrugs/hoyolab-daily-reward-claimer) -  A simple script to help people easily claim their hoyolab daily reward
+- `GanyuBot` - A bot created to help people with genshin impact things such as wish history and in-game information. (Currently not open-source)
+- [`Discord Custom RPC`](https://github.com/Cedrugs/Custom-Discord-RPC) - A simple script that use .ini files to help you with 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true&theme=radical)  
