@@ -13,6 +13,6 @@ If you want to have a talk with me or ask me something, the best way is through 
 - `Discord Custom RPC` - A simple script that use .ini files to help you with 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cedrugs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cedrugs&theme=radical)  
 
