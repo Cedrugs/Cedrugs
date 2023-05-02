@@ -11,7 +11,7 @@ If you want to have a talk with me or ask me something, the best way is through 
 
 - [`Hoyolab Daily Reward Claimer`](https://github.com/Cedrugs/hoyolab-daily-reward-claimer) -  A simple script to help people easily claim their hoyolab daily reward
 - [`Discord Custom RPC`](https://github.com/Cedrugs/Custom-Discord-RPC) - A simple script that use config file to help you manage the rich presence easier
-- [`Ganyu Discord Bot`](https://github.com/Cedrugs/Ganyu-Hikari) - A Genshin Impact themed bot to help you with in game stats and more.
+- `Ganyu Discord Bot` - A Genshin Impact themed bot to help you with in game stats and more.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true&theme=radical)  
