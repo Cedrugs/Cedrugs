@@ -3,7 +3,7 @@
 
 ### Hey there! my name is [Cedrugs](https://github.com/Cedrugs) (Cedric Samuel) :wave:
 
-I'm a 17-year-old computer programmer. Despite the fact that I am still in high school, I wanted to create something really cool that could help a lot of people be more efficient. My main project is a Python-coded Discord bot. For now, I only code in Python, but in the future I'm planning to learn and use more languages in my projects!
+I'm a 19-year-old computer programmer. Despite the fact that I am still in high school, I wanted to create something really cool that could help a lot of people be more efficient. My main project is a Python-coded Discord bot. For now, I only code in Python, but in the future I'm planning to learn and use more languages in my projects!
 
 If you want to have a talk with me or ask me something, the best way is through Discord (Cedric#8394). For now, I don't have a private server for people to join. I might create one later.
 
