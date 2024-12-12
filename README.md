@@ -1,7 +1,7 @@
 # About Me
 
 
-### Hey there! my name is [Cedrugs](https://github.com/Cedrugs) (Cedric Samuel) :wave:
+### Hey there! my name is [Cedrugs](https://github.com/Cedrugs) (Samuel Cedric) :wave:
 
 I'm a 19-year-old computer programmer. Despite the fact that I am still in high school, I wanted to create something really cool that could help a lot of people be more efficient. My main project is a Python-coded Discord bot. For now, I only code in Python, but in the future I'm planning to learn and use more languages in my projects!
 
