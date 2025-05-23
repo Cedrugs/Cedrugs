@@ -64,6 +64,9 @@ If you want to have a talk with me or ask me something, the best way is through 
 - [`Discord Custom RPC`](https://github.com/Cedrugs/Custom-Discord-RPC) - A simple script that use config file to help you manage the rich presence easier
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
 
+# Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-cedric)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&theme=vision-friendly-dark&show_icons=true&hide_border=true&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats-psi-weld.vercel.app?user=Cedrugs&theme=dark&hide_border=true)](https://git.io/streak-stats)
