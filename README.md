@@ -66,6 +66,8 @@ If you want to have a talk with me or ask me something, the best way is through 
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-cedric)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ceds.sam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceds.sam@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&theme=vision-friendly-dark&show_icons=true&hide_border=true&bg_color=151515)
