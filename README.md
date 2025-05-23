@@ -14,6 +14,6 @@ If you want to have a talk with me or ask me something, the best way is through 
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&theme=vision-friendly-dark&show_icons=true&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cedrugs&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
