@@ -15,5 +15,5 @@ If you want to have a talk with me or ask me something, the best way is through 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&show_icons=true&theme=radical)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cedrugs&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cedrugs&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
