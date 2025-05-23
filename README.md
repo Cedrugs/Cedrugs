@@ -71,5 +71,5 @@ If you want to have a talk with me or ask me something, the best way is through 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cedrugs&theme=vision-friendly-dark&show_icons=true&hide_border=true&bg_color=151515)
-![GitHub Streak](https://github-readme-streak-stats-psi-weld.vercel.app?user=Cedrugs&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-psi-weld.vercel.app?user=Cedrugs&theme=dark&hide_border=true&)
 
