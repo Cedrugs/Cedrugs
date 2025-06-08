@@ -8,7 +8,7 @@ What I do:
 - Build fullstack apps using Next.js, React, PostgreSQL, and Prisma
 - Automate workflows with CI/CD pipelines, and containerize projects with Docker
 - Handle deployment like a champ — from VPS to DevOps best practices 🔧🔥
-- Develop tools like YouTube downloaders, GitHub streak injectors, and cybersecurity pricing apps
+- Develop tools like YouTube downloaders, GitHub streak injectors, and other useful things!
 - Craft AI-powered bots and scripts using Python, OpenAI, and other wild APIs
 
 Started with Python, now I’m juggling JavaScript, Go, SQL, and even C like it’s Smash Bros 🕹️💥
