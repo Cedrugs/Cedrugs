@@ -3,9 +3,18 @@
 
 ### Hey there! my name is [Cedrugs](https://github.com/Cedrugs) (Samuel Cedric) :wave:
 
-I'm a 19-year-old computer programmer. Despite the fact that I am still in high school, I wanted to create something really cool that could help a lot of people be more efficient. My main project is a Python-coded Discord bot. For now, I only code in Python, but in the future I'm planning to learn and use more languages in my projects!
+I’m a 19-year-old fullstack developer and second-year Computer Science student at BINUS University. I’m currently leveling up my skills in backend dev, cloud infrastructure, and a dash of machine learning on the side
+What I do:
+- Build fullstack apps using Next.js, React, PostgreSQL, and Prisma
+- Automate workflows with CI/CD pipelines, and containerize projects with Docker
+- Handle deployment like a champ — from VPS to DevOps best practices 🔧🔥
+- Develop tools like YouTube downloaders, GitHub streak injectors, and cybersecurity pricing apps
+- Craft AI-powered bots and scripts using Python, OpenAI, and other wild APIs
 
-If you want to have a talk with me or ask me something, the best way is through Discord (cedrugs).
+Started with Python, now I’m juggling JavaScript, Go, SQL, and even C like it’s Smash Bros 🕹️💥
+
+If you're down to collab, chat dev stuff, or just throw ideas around — hit me up on Discord: cedrugs.
+Always excited to build cool things with cooler people!
 
 # Tech Stack
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
