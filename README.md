@@ -3,7 +3,8 @@
 
 ### Hey there! my name is [Cedrugs](https://github.com/Cedrugs) (Samuel Cedric) :wave:
 
-I’m a 19-year-old fullstack developer and second-year Computer Science student at BINUS University. I’m currently leveling up my skills in backend dev, cloud infrastructure, and a dash of machine learning on the side
+I’m a 19-year-old fullstack developer and second-year Computer Science student at BINUS University. I’m currently leveling up my skills in backend dev, cloud infrastructure, and a dash of machine learning on the side. I'm currently working at Dewaweb as Product/IT Support
+
 What I do:
 - Build fullstack apps using Next.js, React, PostgreSQL, and Prisma
 - Automate workflows with CI/CD pipelines, and containerize projects with Docker
