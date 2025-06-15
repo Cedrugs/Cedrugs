@@ -69,9 +69,11 @@ Always excited to build cool things with cooler people!
 
 # Projects
 
-- [`Hoyolab Daily Reward Claimer`](https://github.com/Cedrugs/hoyolab-daily-reward-claimer) -  A simple script to help people easily claim their hoyolab daily reward
-- [`Discord Custom RPC`](https://github.com/Cedrugs/Custom-Discord-RPC) - A simple script that use config file to help you manage the rich presence easier
+- [`SAD Automated Invoice`](https://github.com/Cedrugs/sad-automated-invoice) -  Real time automated invoice, sent based to Google Form's respondent
+- [`GiziTrack`](https://github.com/Cedrugs/gizitrack) - User-friendly application for GiziTrack webapp, offering intuitive navigation, real-time notifications, and an interactive dashboard for tracking meal delivery.
 - [`ytdlder`](https://github.com/Cedrugs/ytdlder) - Lightweight & open-source YouTube video downloader.
+- [`streakinator`](https://github.com/Cedrugs/streakinator) - A simple, interactive Go utility that creates backdated, empty Git commits to populate your GitHub contribution graph.
+- [`growagarden-honey-crafting-tracker`](https://github.com/Cedrugs/growagarden-honey-crafting-tracker) - A web application to help players track their plant cycles and honey production in the game Grow a Garden
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-cedric)
